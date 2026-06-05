@@ -32,11 +32,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajak7459ojha&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajak7459ojha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kajak7459ojha&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajak7459ojha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%" />
+</p>
 
 ## 📫 Connect With Me
 
