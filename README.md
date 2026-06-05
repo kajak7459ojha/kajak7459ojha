@@ -32,11 +32,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kajak7459ojha&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajak7459ojha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajak7459ojha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kajak7459ojha&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 📫 Connect With Me
