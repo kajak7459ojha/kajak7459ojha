@@ -29,17 +29,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Currently Learning
+- 🔥 Full Stack Development
+- ⚛️ Advanced React
+- 🗄️ Databases (MongoDB / SQL)
+- ☁️ Deployment (Vercel / Render)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajak7459ojha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kajak7459ojha&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+## 💡 Fun Facts
+- 👩‍💻 I love turning ideas into real web apps
+- 🎯 Currently interning at CodSoft
+- 🌱 Always learning something new every day
 
 ## 📫 Connect With Me
 
